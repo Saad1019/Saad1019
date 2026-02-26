@@ -1,5 +1,28 @@
-# 💫 About Me:
-Muhammad Saad Naeem is an aspiring Data Scientist (Google Certified) and Economist based in Islamabad, Pakistan, blending strong analytical skills with a passion for financial markets and data-driven decision-making.<br>With over 2 years of hands-on trading experience in forex and commodities, I actively pursue a BS in Economics while building expertise in tools that turn raw data into actionable insights. My toolkit includes Excel (intermediate), Power BI (basic to intermediate), SQL/MySQL, Python (pandas, NumPy, scikit-learn, Streamlit), data visualization (seaborn, matplotlib), time series forecasting, risk management, and machine learning fundamentals.<br>I thrive on real-world projects that solve practical problems:<br><br>Developed Startup Intel OS, an AI-powered local tool using Groq's Llama 3.3 70B to help data professionals discover and outreach to early-stage startups (pre-Series A/Seed) with personalized strategies—zero-cost, full privacy.<br>Created an Excel-based Gold (XAU/USD) Trading Strategy Dashboard analyzing 90 days of M15 data with 5 EMA trends, retracement/momentum filters, and session/timeframe logic—boosting win rate from ~64% to 75–78%.<br>Built dashboards for Coca-Cola revenue forecasting (2021–2026 projections), Pakistani e-commerce sales (500K+ rows cleaned), PakWheels vehicle trends, Pakistan road accidents (2008–2019), heart disease survival analysis, student performance SQL queries, and more—focusing on cleaning, EDA, visualization, and storytelling.<br>Completed internship projects involving Titanic EDA, RFM customer segmentation, retail time series, churn prediction, and loan acceptance modeling (92% accuracy).<br><br>Backed by certifications from Google, Yale, New York Institute of Finance, IBM, University of Michigan, DeepLearning.AI, and Microsoft, I’m passionate about using data science to drive smarter decisions in economics, trading, business, and beyond. I also enjoy public speaking, sharing insights on data trends, and continuously upskilling in AI and analytics.<br>Open to opportunities in data analysis, financial modeling, BI roles, or collaborative projects—let's connect and turn data into impact!<br>(Feel free to tweak the tone—more professional/formal, shorter for LinkedIn About, or add personal flair. This version pulls the strongest, most consistent elements from your LinkedIn, GitHub portfolio, and projects to sound confident, focused, and achievement-oriented.)2sFast
+### 💫 About Me:
+<div align="center">
+  <h1 style="font-size: 4.5em; margin: 0; padding: 20px 0;">Muhammad Saad Naeem</h1>
+</div>
+
+<div align="center" style="margin: 20px 0; font-size: 1.4em; color: #555;">
+  Data Scientist (Google Certified) | Python | SQL | Power BI | Tableau | Excel | Equity Markets
+</div>
+
+<br>
+
+### 🚀 About Me – Key Highlights
+- 📊 **Data Scientist | Quantitative Analyst** — 4+ years applying statistical analysis and predictive modeling in US equity index markets, specializing in systematic strategy research, backtesting, and risk-optimized trading systems  
+
+- 📈 **Performance Optimization** — Developed and validated rule-based trading models; improved win rate from ~64% → 75–78% using feature engineering, volatility filters, momentum modeling, and time-series analysis  
+
+- 🛠️ **Data Science Toolkit** — Python (pandas, NumPy, matplotlib, seaborn), SQL/MySQL, Power BI, Tableau, Excel | Data Cleaning, EDA, Statistical Analysis, Forecasting, Dashboard Development  
+
+- 🎓 **Quantitative Foundation** — BS Economics (in progress) | Google Data Analytics Certified | Additional certifications in ML & Analytics  
+
+- 🤝 **Project Builder & Communicator** — Built forecasting dashboards, AI-powered tools, e-commerce analytics, and predictive models — focused on turning data into actionable insights  
+<br>
+
+
+Let's turn insights into impact! 🚀
 
 
 ## 🌐 Socials:
